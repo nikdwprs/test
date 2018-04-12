@@ -1,7 +1,6 @@
 {
   "name": "dwpr-ui-library",
   "version": "0.1.1",
-  "private": true,
   "dependencies": {
     "dwprreactscripts2": "1.2.0",
     "react": "^16.3.1",
