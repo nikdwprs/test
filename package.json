@@ -1,6 +1,6 @@
 {
   "name": "dwpr-ui-library",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "dwprreactscripts2": "1.2.0",
     "react": "^16.3.1",
@@ -14,7 +14,7 @@
     "eject": "react-scripts eject"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
-  "main": "index.js",
+  "main": "src/index.js",
   "author": "Kate Bidyanova",
   "license": "ISC",
   "repository": {
